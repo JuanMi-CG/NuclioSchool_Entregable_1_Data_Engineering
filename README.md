@@ -82,7 +82,7 @@ El proyecto está estructurado en varias secciones, cada una enfocada en un aspe
 
 ## 🚀 Instrucciones
 
-1. Clonar el repositorio.
-   ```sh
-   git clone [<URL>](https://github.com/JuanMi-CG/NuclioSchool_Entregable_1_Preprocesamiento.git)
-   ```
+Clonar el repositorio.
+```sh
+git clone https://github.com/JuanMi-CG/NuclioSchool_Entregable_1_Preprocesamiento.git
+```
