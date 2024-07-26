@@ -64,17 +64,11 @@ El proyecto está estructurado en varias secciones, cada una enfocada en un aspe
 ## 📁 Estructura de Carpetas
 
 - **datasets/**: Contiene el dataset de coches BMW.
-  - `BMW_dataset.csv`
+  - `bmw_pricing_v3.csv`
 - **PDFs/**: Contiene el documento PDF solicitado por el profesor.
-  - `Entregable_BMW.pdf`
-- **src/**: Contiene el código fuente del proyecto.
-  - `preprocessing.py`
+  - `ENTREGA 1 - Juan Miguel Coll.pdf`
 - **notebooks/**: Contiene los notebooks utilizados durante el desarrollo del proyecto.
-  - `preprocessing.ipynb`
-- **outputs/**: Contiene los resultados y outputs generados durante el preprocesamiento.
-  - `correlation_matrix_initial.png`
-  - `correlation_matrix_final.png`
-  - `outliers_analysis.png`
+  - `Entregable_1_Preprocesamiento.ipynb`
 
 ## 🔧 Requisitos
 
